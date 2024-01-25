@@ -4,7 +4,7 @@
 
 # terminal emulator
 super + Return
-	kitty
+	st
 
 # program launcher
 super + d
@@ -134,17 +134,17 @@ super + shift + f
 
 # BurpSuite
 super + shift + b
-	burpsuite
+	nvim
 
 ###############
 # ScreenShots #
 ###############
 
 @Print
-        screenshot select
+        flameshot
 
 @Print + ctrl
-        screenshot
+        flameshot
 
 @Print + alt
-        screenshot window
+        flameshot
