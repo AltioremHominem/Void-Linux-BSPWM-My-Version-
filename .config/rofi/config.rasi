@@ -3,7 +3,7 @@ configuration {
   show-icons: false;
   icon-theme: "Qogir";
   font: "Clear Sans Medium 10";
-  terminal: "st";
+  terminal: "kitty";
   modi: "drun,run,window";
   width: 40;
   lines: 5;
