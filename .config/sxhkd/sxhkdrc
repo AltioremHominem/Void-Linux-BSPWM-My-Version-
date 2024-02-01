@@ -1,4 +1,12 @@
 ##########################
+# lockscreen             #
+##########################
+alt + shift + x
+    betterlockscreen -l dim
+
+
+
+##########################
 # wm independent hotkeys #
 ##########################
 
