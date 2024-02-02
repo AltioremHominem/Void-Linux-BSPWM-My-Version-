@@ -13,9 +13,3 @@ sudo ln -s /usr/share/fontconfig/conf.avail/70-no-bitmaps.conf /etc/fonts/conf.d
 sudo xbps-reconfigure -f fontconfig 
 sudo fc-cache -f -v 
 chmod +x ~/.config/polybar/scripts/* 
-cd ~/Void-Linux-BSPWM-My-Version-/icon-theme 
-bash install.sh 
-cd ~/Void-Linux-BSPWM-My-Version-/theme 
-bash install.sh 
-cd ~ 
-sudo xbps-remove -Oo 
