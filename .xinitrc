@@ -8,5 +8,6 @@ picom &
 sxhkd &
 flameshot &
 # set desktop background with custom effect
-betterlockscreen -w dim &
+betterlockscreen -u ~/.config/.wall/macos-big-sur-2560x1440-23119.jpg -l
+
 exec bspwm
