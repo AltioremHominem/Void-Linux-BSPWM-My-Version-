@@ -1,5 +1,4 @@
 configuration {
-  theme: "default.rasi";
   show-icons: false;
   icon-theme: "Qogir";
   font: "Clear Sans Medium 10";
